@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-size: cover;
+    
+
+background-color: #080809;
+}
+
+.unemp_to_cust_container {
+    background-image: url("https://res.cloudinary.com/duo7euzsf/image/upload/v1720516186/home_tjbw54.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.Title_unem {
+    font-family: "Gill Sans";
+    font-size: 23px;
+    color: #161294;
+    text-align: center;
+    margin-top: 18px;
+    background-color: white;
+    font-weight: bold;
+}
+
+.umemp-container {
+    padding: 12px;
+}
+
+.Umemp-heading {
+    font-family: "Comic Sans MS";
+    font-size: 23px;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 18px;
+    font-weight: bold;
+    color: #E3E3DD;
+}
+
+.Unemp-para {
+    font-family: "Caveat";
+    font-size: 23px;
+    color: #E3E3DD;
+}
+
+.Unemp_cust_image {
+    height: 60px;
+    width: 60px;
+    border-radius: 70px;
+}
+
+.logo_image {
+    height: 70px;
+    width: auto;
+    border-radius: 300px;
+}
+
+.button {
+    border-width: 0px;
+    padding: 6px;
+    width: 100px;
+    border-radius: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.login_re_btns_cont {
+    margin-top: 70px;
+}
+
+.Login-button {
+    background-color: #585855;
+    color: #f5f3f0;
+}
+
+.Register-button {
+    color: #f5f3f0;
+    background-color: #585855;
+}
+
+.upperSectionHomePage {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.login_bg_container {
+    background-image: url("https://res.cloudinary.com/duo7euzsf/image/upload/v1720337420/HH3_gm0omd.jpg");
+    background-size: cover;
+    height: 100vh;
+    padding: 10px;
+}
+
+.imp_elements {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.user_input {
+    background-color: white;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e4e7eb;
+    border-radius: 10px;
+    margin-top: 5px;
+    padding: 15px;
+}
+
+#sectionCustomerInterfacePage {
+    background-image: linear-gradient(#A27909, #E1A608);
+    height: 100vh;
+}
+
+.upperSectionCustProfile {
+    background-color: #0892E1;
+    padding: 15px;
+}
+
+.custProfileImage {
+    height: 60px;
+    width: 55px;
+    border-radius: 50px;
+}
+
+#sectionHandyHeroesHomePage {
+    background-image: linear-gradient(to bottom, #585755, #848481);
+}
+
+.serviceImage {
+    height: 170px;
+    width: auto;
+}
+
+.alterImage {
+    width: 195px;
+}
+
+.carpenImg {
+    width: 190px;
+}
+
+.serviceContainer {
+    background-image: linear-gradient(to left, #E6E5E0, #B9B9B5);
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.serviceHeading {
+    font-family: "Gill Sans", sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    color: #E6E5E0;
+}
+
+.electricalAppliImg {
+    width: 160px;
+    height: 120px;
+}
+
+#sectionElectricianQueries {
+    background-image: linear-gradient(to bottom, #585755, #848481);
+    height: 100vh;
+    padding-top: 16px;
+}
+
+.eachApplianceContainer {
+    border-radius: 12px;
+    background-color: white;
+    padding: 15px;
+    margin-right: 100px;
+    text-align: center;
+    width: auto;
+}
+
+.applianceName {
+    font-family: "Comic Sans MS";
+    font-size: 23px;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 18px;
+    font-weight: bold;
+}
+
+.electricalappheading {
+    font-family: "Gill Sans", sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    color: #E6E5E0;
+    margin-bottom: 52px;
+}
+
+#sectionPlumberQueries {
+    background-image: linear-gradient(to bottom, #585755, #848481);
+    height: 100vh;
+    padding-top: 16px;
+}
+
+#sectionCarpentarQueries {
+    background-image: linear-gradient(to bottom, #585755, #848481);
+    height: 100vh;
+    padding-top: 16px;
+}
+
+#sectionPaiQueries {
+    background-image: linear-gradient(to bottom, #585755, #848481);
+    height: 100vh;
+    padding-top: 16px;
+}
